@@ -1,95 +1,40 @@
-👋 Hi there!
+# Hi 👋 I'm Alina Ivashchenko
 
-Welcome to my GitHub profile! Here you’ll find a showcase of my projects, technical skills, and areas of interest.
-
-📚 About Me
+## 📚 About Me
 
 I am a sophomore Software Engineering student with a passion for building efficient, user-friendly software solutions. I have experience in a variety of technical areas, from frontend and backend development to database design and software project management.
 
-🚀 Skills
+### 💻 Programming Languages:
 
-💻 Programming Languages:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,mysql)](https://skillicons.dev)
 
-JavaScript
+### ⚙️ Frameworks & Libraries:
 
-Java
+[![My Skills](https://skillicons.dev/icons?i=nodejs,flask,expressjs)](https://skillicons.dev)
 
-HTML/CSS
 
-MIPS Assembly
+## 🌱 Current Projects
 
-⚙️ Frameworks & Libraries:
-
-Node.js
-
-Express.js
-
-🗄️ Databases:
-
-MySQL
-
-localStorage
-
-📂 Version Control:
-
-Git
-
-GitHub
-
-🌱 Current Projects
-
-🔹 Help Desk Scheduling and Task Management System
+### Help Desk Scheduling and Task Management System
 
 A system to streamline scheduling, task assignment, and role-based access control for managers and student workers.
 
-🔹 Fridge Inventory Management
+### Fridge Inventory Management
 
 A project that uses AI to generate recipe suggestions based on available ingredients, tracks ingredient expiration dates, and provides reminders.
 
-📈 Projects Showcase
+### EPL Predictor
 
-1️⃣ Help Desk Scheduling and Task Management System
+A machine learning-based project to predict the outcomes of English Premier League (EPL) matches using Python and Pandas.
 
-Description: Replaces manual shift scheduling with an automated platform for managers and workers.
+## 📥 How to Reach Me
 
-Technologies:
+I’m always open to new opportunities and collaborations. Feel free to reach out!
 
-Node.js
+✉️ Email: ivash006@crk.umn.edu
 
-MySQL
+💼 LinkedIn: https://www.linkedin.com/in/alina-ivashchenko-aa00152b9/
 
-JavaScript
+## 🤝 Let's Connect
 
-HTML/CSS
-
-Features:
-
-✅ Task creation
-
-✅ Role-based access
-
-✅ Shift swapping
-
-✅ Automated notifications
-
-2️⃣ Fridge Inventory Management System
-
-Description: Tracks inventory and expiration dates for kitchen ingredients. Suggests recipes using AI based on available ingredients.
-
-Technologies:
-
-JavaScript
-
-MySQL
-
-LocalStorage
-
-AI API integration
-
-Features:
-
-✅ Ingredient tracker
-
-✅ AI-generated recipes
-
-✅ Expiration reminders
+If you’d like to discuss potential projects, collaborations, or just want to say hi, I’d love to connect. Feel free to drop me a message :)

@@ -1,4 +1,5 @@
-## Hi there 👋
+👋 Hi there!
+
 Welcome to my GitHub profile! Here you’ll find a showcase of my projects, technical skills, and areas of interest.
 
 📚 About Me
@@ -7,19 +8,43 @@ I am a sophomore Software Engineering student with a passion for building effici
 
 🚀 Skills
 
-💻 Programming Languages: JavaScript, Java, HTML/CSS, MIPS Assembly
+💻 Programming Languages:
 
-⚙️ Frameworks & Libraries: Node.js, Express.js
+JavaScript
 
-🗄️ Databases: MySQL, localStorage
+Java
 
-📂 Version Control: Git, GitHub
+HTML/CSS
+
+MIPS Assembly
+
+⚙️ Frameworks & Libraries:
+
+Node.js
+
+Express.js
+
+🗄️ Databases:
+
+MySQL
+
+localStorage
+
+📂 Version Control:
+
+Git
+
+GitHub
 
 🌱 Current Projects
 
-Help Desk Scheduling and Task Management System: A system to streamline scheduling, task assignment, and role-based access control for managers and student workers.
+🔹 Help Desk Scheduling and Task Management System
 
-Fridge Inventory Management: A project that uses AI to generate recipe suggestions based on available ingredients, tracks ingredient expiration dates, and provides reminders.
+A system to streamline scheduling, task assignment, and role-based access control for managers and student workers.
+
+🔹 Fridge Inventory Management
+
+A project that uses AI to generate recipe suggestions based on available ingredients, tracks ingredient expiration dates, and provides reminders.
 
 📈 Projects Showcase
 
@@ -27,14 +52,44 @@ Fridge Inventory Management: A project that uses AI to generate recipe suggestio
 
 Description: Replaces manual shift scheduling with an automated platform for managers and workers.
 
-Technologies: Node.js, MySQL, JavaScript, HTML/CSS
+Technologies:
 
-Features: Task creation, role-based access, shift swapping, and automated notifications.
+Node.js
+
+MySQL
+
+JavaScript
+
+HTML/CSS
+
+Features:
+
+✅ Task creation
+
+✅ Role-based access
+
+✅ Shift swapping
+
+✅ Automated notifications
 
 2️⃣ Fridge Inventory Management System
 
 Description: Tracks inventory and expiration dates for kitchen ingredients. Suggests recipes using AI based on available ingredients.
 
-Technologies: JavaScript, MySQL, LocalStorage, AI API integration
+Technologies:
 
+JavaScript
 
+MySQL
+
+LocalStorage
+
+AI API integration
+
+Features:
+
+✅ Ingredient tracker
+
+✅ AI-generated recipes
+
+✅ Expiration reminders

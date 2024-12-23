@@ -10,7 +10,7 @@ I am a sophomore Software Engineering student with a passion for building effici
 
 ### ⚙️ Frameworks & Libraries:
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,flask,expressjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,flask,expressjs)](https://skillicons.dev)
 
 
 ## 🌱 Current Projects

@@ -6,7 +6,7 @@ I am a sophomore Software Engineering student with a passion for building effici
 
 ### 💻 Programming Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python)](https://skillicons.dev)
 
 ### ⚙️ Frameworks & Libraries:
 

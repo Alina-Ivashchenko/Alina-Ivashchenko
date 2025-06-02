@@ -23,9 +23,9 @@ A system to streamline scheduling, task assignment, and role-based access contro
 
 A project that uses AI to generate recipe suggestions based on available ingredients, tracks ingredient expiration dates, and provides reminders.
 
-### EPL Predictor
+### Green Store
 
-A machine learning-based project to predict the outcomes of English Premier League (EPL) matches using Python and Pandas.
+A sustanability project for managing donations inventory on campus. 
 
 ## 📥 How to Reach Me
 

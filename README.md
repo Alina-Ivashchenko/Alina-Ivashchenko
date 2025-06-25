@@ -15,9 +15,9 @@ I am a sophomore Software Engineering student with a passion for building effici
 
 ## 🌱 Current Projects
 
-### Help Desk Scheduling and Task Management System
+### International Student Website
 
-A system to streamline scheduling, task assignment, and role-based access control for managers and student workers.
+From orientation tips to campus life hacks, this site helps you settle in, get answers, and feel more at home — whether it’s your first week or your second semester.
 
 ### Fridge Inventory Management
 

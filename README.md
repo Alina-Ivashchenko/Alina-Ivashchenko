@@ -2,7 +2,7 @@
 
 ## 📚 About Me
 
-I am a sophomore Software Engineering student with a passion for building efficient, user-friendly software solutions. I have experience in a variety of technical areas, from frontend and backend development to database design and software project management.
+I am a junior Software Engineering student with a passion for building efficient, user-friendly software solutions. I have experience in a variety of technical areas, from frontend and backend development to database design and software project management.
 
 ### 💻 Programming Languages:
 

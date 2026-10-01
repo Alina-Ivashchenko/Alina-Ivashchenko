@@ -1,8 +1,13 @@
-# Hi 👋 I'm Alina Ivashchenko
+# Hi, I'm Alina Ivashchenko 👋
 
-## 📚 About Me
+## 🚀 About Me
 
-I am a junior Software Engineering student with a passion for building efficient, user-friendly software solutions. I have experience in a variety of technical areas, from frontend and backend development to database design and software project management.
+I'm a **senior Software Engineering student** (B.S., UMN Crookston, May 2027 · 4.0 GPA) and an **aspiring Product Manager**. I love turning ambiguous problems into real products — from 0-to-1 scoping and roadmaps to Agile delivery.
+
+**Currently:**
+- 🎓 Finishing the Google Project Management Professional Certificate (4/6 courses done)
+- 🖥️ Product & Project Lead on **ARIA**, an AI-powered desktop assistant (senior design)
+- 🌱 Founding President of the Innovation and Technology Alliance (ITA)
 
 ### 💻 Programming Languages:
 
@@ -12,29 +17,32 @@ I am a junior Software Engineering student with a passion for building efficient
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,flask,expressjs)](https://skillicons.dev)
 
+### 🧰 Product Toolkit:
 
-## 🌱 Current Projects
+Jira · Agile/Kanban · Roadmapping · User Stories · Stakeholder Management
 
-### International Student Website
+## 🌱 Projects
 
-From orientation tips to campus life hacks, this site helps you settle in, get answers, and feel more at home — whether it’s your first week or your second semester.
+### ARIA — AI Desktop Assistant
+
+Product & Project Lead · Senior design (SE 4900). Leading a 4-person team building an AI-powered desktop assistant — owning the roadmap, product requirements, and Agile delivery in Jira.
+
+### GreenStore — Campus Donation Marketplace
+
+Product Manager & Frontend Developer. Led 0-to-1 scoping of a donation marketplace supporting campus sustainability: milestones, user stories, backlog prioritization, and a React prototype.
 
 ### Fridge Inventory Management
 
 A project that uses AI to generate recipe suggestions based on available ingredients, tracks ingredient expiration dates, and provides reminders.
 
-### Green Store
+### International Student Website
 
-A sustanability project for managing donations inventory on campus. 
+From orientation tips to campus life hacks, this site helps international students settle in, get answers, and feel more at home — whether it's their first week or their second semester.
 
 ## 📥 How to Reach Me
 
-I’m always open to new opportunities and collaborations. Feel free to reach out!
+I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 ✉️ Email: ivash006@crk.umn.edu
 
 💼 LinkedIn: https://www.linkedin.com/in/alina-ivashchenko-aa00152b9/
-
-## 🤝 Let's Connect
-
-If you’d like to discuss potential projects, collaborations, or just want to say hi, I’d love to connect. Feel free to drop me a message :)
